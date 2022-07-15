@@ -1,0 +1,41 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of these is NOT an Australian state or territory?",
+      "correct_answer": "Alberta",
+      "incorrect_answers": [
+        "New South Wales",
+        "Victoria",
+        "Queensland"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Left 4 Dead, what is the name of the virus, as designated by CEDA, that causes most humans to turn into the Infected?",
+      "correct_answer": "Green Flu",
+      "incorrect_answers": [
+        "Yellow Fever",
+        "T-Virus",
+        "Raspberry Sniffles"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What year was Red Hot Chill Pepper&#039;s album &quot;Californication&quot; released?",
+      "correct_answer": "1999",
+      "incorrect_answers": [
+        "1997",
+        "2000",
+        "1992"
+      ]
+    }
+  ]
+}
