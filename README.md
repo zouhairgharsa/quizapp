@@ -1,4 +1,4 @@
-# quizapp
+# Quiz Learning App
 
 
 
