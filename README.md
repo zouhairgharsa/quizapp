@@ -1,4 +1,4 @@
-# Quiz Learning App
+# Games Learning App
 
 
 
